@@ -4,5 +4,5 @@ Es una pasarela de pago completa desarrollada en Node.js y React.js que facilita
 
 ## Características Principales
 
-    Integración sencilla con diferentes proveedores de pago, como Mercado Pago y PayPal.
-    Gestión de transacciones en tiempo real con notificaciones y actualizaciones en tiempo real.
+    - Integración sencilla con diferentes proveedores de pago, como Mercado Pago y PayPal.
+    - Gestión de transacciones en tiempo real con notificaciones y actualizaciones en tiempo real.
